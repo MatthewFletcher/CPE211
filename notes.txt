@@ -1,0 +1,50 @@
+// means entire line is comment
+
+// makes rest of line a comment
+
+/* This is a comment*/ and this is not
+
+Commenting guide will be released in first few weeks 
+
+
+Phases of writing a program:
+0. Why are you writing the program
+1. Understand problem, solution, and algorithm used
+2. Implementation: convert algorithm into programming language
+2. Check for syntax and logic errors
+3. Execute the program and change it to meet changing requirements
+
+
+A programming language is a simplified version of english that adheres to a strict set of rules
+
+Documentation: external and internal 
+
+
+Think first, code later
+
+
+Language types
+Machine language: 1 and 0 used by computer
+Assembly language: low level using mnemonics to represent machine language instructions
+Assembler: Program to translate assembly language to machine language 
+High level language: Language close to english that can be translated to machine languages
+Compiler: program to translates high level language to machine language
+Src program: program written in high level language
+Object ptoram: machine language version of the program 
+
+
+Four ways of structring statements:
+Sequentially: Instructions executed one after the other
+Selection (if and switch) condition control, pick one of multiple choices
+Loopo: Perform same instructions repetitively until a condition is met
+Subprogram: Pass control over to another set of instructions, allows for breaking up a large program into smaller ujnits
+
+Ethics:
+Software pirary: copying of software without permission of its creator
+Privacy of data: do not take advantage of special access to confidential data
+Use of computer resources: do not use computer resources without permission 
+Software engineering: Programmers have a responsibility for developing software that is free from errors
+
+
+
+
