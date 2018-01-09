@@ -48,3 +48,32 @@ Software engineering: Programmers have a responsibility for developing software 
 
 
 
+Commands for Linux
+pwd 
+ls
+mkdir
+touch
+cd
+mv
+cp
+rm
+rmdir
+g++
+more
+cat
+
+
+File names are case sensitive
+
+.cpp extension for src code
+
+ls -l gives all info 
+
+cd with no flags returns to ~
+
+. is current directory
+../ is parent
+
+
+!p runs last command that starts with p
+
